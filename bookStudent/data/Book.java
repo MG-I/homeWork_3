@@ -58,17 +58,10 @@ public class Book {
         this.author = author;
     }
 
-    public String getTupe() {
-        return type;
-    }
-
-    public void setTupe(String tupe) {
-        this.type = tupe;
-    }
-
     public String getType() {
         return type;
     }
+
 
     public void setType(String type) {
         this.type = type;
